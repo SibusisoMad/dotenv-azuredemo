@@ -1,0 +1,15 @@
+{
+  "name": "dotenv-azure-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node -r dotenv-azure/config dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv-azure": "^2.0.0",
+    "http": "0.0.1-security"
+  }
+}
